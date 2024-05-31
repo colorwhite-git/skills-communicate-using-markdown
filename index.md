@@ -13,6 +13,10 @@ newton = Math.floor(newton);
 console.log(`The temperature is ${newton} degrees Newton.`);
 ```
 ### Service to Humanity
+- [x] Establish an NGO in line with Lions International
+- [x] Provide valuable goods and services
+- [ ] Investment in the economy
+
 #### Kindness and Love
 ##### Humility and Patience
 ###### Faith in God
